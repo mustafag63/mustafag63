@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Computer Engineering student <br>🤖 Passionate about Artificial Intelligence & Machine Learning — currently specializing in ML pipelines, ensemble models, and LLM-based agent architectures<br>📊 IBM Certified in Exploratory Data Analysis, Supervised Machine Learning and Unsupervised Machine Learning<br>🌍 Trilingual (Turkish, English, French) <br>💡 Always learning — currently deep in XGBoost, Random Forests & Deep Learning
+🎓 Computer Engineering student <br>🤖 I am passionate about Artificial Intelligence & Machine Learning — currently specializing in ML pipelines, ensemble models, and LLM-based agent architectures<br>💡 I am always learning developing.
 
 
 ## 🌐 Socials:
