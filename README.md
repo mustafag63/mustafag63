@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🎓 Computer Engineering student <br>🤖 I am passionate about Artificial Intelligence & Machine Learning — currently specializing in ML pipelines, ensemble models, and LLM-based agent architectures<br>💡 I am always learning and developing.
 
 
