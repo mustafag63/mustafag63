@@ -1,5 +1,5 @@
 # About Me:
-I am a Computer Engineering student <br>🤖 I am passionate about Artificial Intelligence & Machine Learning. <br>💡 I am always learning and developing.
+I am a Computer Engineering student <br> I am passionate about Artificial Intelligence & Machine Learning. <br> I am always learning and developing.
 
 
 ## 🌐 Socials:
