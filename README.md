@@ -1,5 +1,7 @@
 # About Me:
-- I am a Computer Engineering student <br> - I am passionate about Artificial Intelligence & Machine Learning. <br> - I am always learning and developing.
+- I am a Computer Engineering student.
+- I specialize in AI/ML for cybersecurity — network intrusion detection, adversarial robustness, and LLM-based intelligent systems.
+- I build end-to-end from raw data to deployed models
 
 
 ## 🌐 Socials:
