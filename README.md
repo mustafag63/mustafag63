@@ -1,8 +1,7 @@
 # About Me:
 - I am a Computer Engineering student.
-- I specialize in AI/ML for cybersecurity — network intrusion detection, adversarial robustness, and LLM-based intelligent systems.
-- I build end-to-end from raw data to deployed models
-
+- I specialize in Cybersecurity, with AI-driven applications.
+- I build LLM-based systems and AI agents applied to cybersecurity.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mustafa-göçmen-6a4387337/) 
